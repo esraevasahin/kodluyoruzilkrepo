@@ -1,3 +1,2 @@
-# Projetest1
-Test yazısı
-deneme yazısı
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
